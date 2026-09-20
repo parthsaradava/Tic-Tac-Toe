@@ -7,7 +7,7 @@ This project is beginner-friendly and demonstrates how JavaScript can be used to
 
 ## 🚀 Live Demo
 
-🔗 **Live Demo:** `YOUR-GITHUB-PAGES-LINK`
+🔗 **Live Demo:** `https://github.com/parthsaradava/Tic-Tac-Toe.git`
 
 ---
 
@@ -350,7 +350,7 @@ After **1.5 seconds**, the game automatically resets and a new game begins.
 1. Clone this repository:
 
 ```bash
-git clone YOUR-REPOSITORY-LINK
+git clone https://github.com/parthsaradava/Tic-Tac-Toe.git
 ```
 
 2. Open the project folder.
@@ -370,7 +370,7 @@ After enabling GitHub Pages for the repository, you can access the game through 
 Example:
 
 ```text
-https://YOUR-GITHUB-USERNAME.github.io/tic-tac-toe/
+https://github.com/parthsaradava/Tic-Tac-Toe.git
 ```
 
 ---
@@ -401,9 +401,7 @@ While creating this project, I practiced:
 
 ## 👨‍💻 Author
 
-**Your Name**
-
-GitHub: `YOUR-GITHUB-USERNAME`
+GitHub: `Parthsaradava`
 
 ---
 
