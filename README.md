@@ -11,9 +11,9 @@ This project is beginner-friendly and demonstrates how JavaScript can be used to
 
 ---
 
-## 📸 Preview
+## 📸 Screenshot
 
-![Tic Tac Toe Preview](./screenshot.png)
+![Tic Tac Toe Game Screenshot](./Screenshot.png)
 
 ---
 
